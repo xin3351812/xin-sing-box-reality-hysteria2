@@ -18,7 +18,7 @@
 
 ### reality和hysteria2 wss三合一脚本
 ```bash
-bash <(curl -fsSL https://github.com/xin3351812/xin-sing-box-reality-hysteria2/raw/main/reality_hy2_ws.sh)
+bash <(curl -fsSL https://github.com/xin3351812/xin-sing-box-reality-hysteria2/raw/master/reality_hy2_ws.sh)
 ```
 
 
